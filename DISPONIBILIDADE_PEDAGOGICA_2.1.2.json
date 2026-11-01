@@ -1,0 +1,889 @@
+{
+  "version": "2.1.2",
+  "wordRecords": 223,
+  "texts": 15,
+  "note": "Disponibilidade técnica para planejamento. Ausência de suporte não é preenchida com uma atividade genérica. Não equivale a validação humana ou domínio de habilidade.",
+  "items": [
+    {
+      "id": "parlenda-pula-pipoquinha",
+      "title": "Pula, Pula, Pipoquinha",
+      "origin": "Tradição Popular e Oral",
+      "bncc": [
+        "EF01LP16",
+        "EF12LP07",
+        "EF12LP19",
+        "EF15LP03"
+      ],
+      "visualCards": 2,
+      "visualSequence": false,
+      "imageWords": 2,
+      "letterAssembly": 10,
+      "syllableAssembly": 10,
+      "rhymePairs": 20,
+      "rhymeIdentification": 10,
+      "sentenceChallenges": 8,
+      "wordIdentification": 10,
+      "availability": {
+        "availableCount": 25,
+        "partialCount": 4,
+        "notAvailableCount": 0,
+        "availableModalities": [
+          "Consciência Fonológica",
+          "Sílabas",
+          "Sons",
+          "Rimas",
+          "Aliteração",
+          "Som ↔ Letra",
+          "Formação de Palavras",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Fluência",
+          "Compreensão",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Interpretação",
+          "Inferência",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": []
+      }
+    },
+    {
+      "id": "poema-o-relogio-da-escola",
+      "title": "O Relógio da Escola",
+      "origin": "Acervo FluiLer (Criação Pedagógica)",
+      "bncc": [
+        "EF12LP18",
+        "EF12LP19",
+        "EF15LP03"
+      ],
+      "visualCards": 2,
+      "visualSequence": false,
+      "imageWords": 2,
+      "letterAssembly": 18,
+      "syllableAssembly": 18,
+      "rhymePairs": 20,
+      "rhymeIdentification": 10,
+      "sentenceChallenges": 8,
+      "wordIdentification": 18,
+      "availability": {
+        "availableCount": 26,
+        "partialCount": 3,
+        "notAvailableCount": 0,
+        "availableModalities": [
+          "Consciência Fonológica",
+          "Sílabas",
+          "Sons",
+          "Rimas",
+          "Aliteração",
+          "Som ↔ Letra",
+          "Formação de Palavras",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Fluência",
+          "Compreensão",
+          "Inferência",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Interpretação",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": []
+      }
+    },
+    {
+      "id": "cantiga-roda-dos-amigos",
+      "title": "Roda dos Amigos",
+      "origin": "Acervo FluiLer (Canção Pedagógica Original)",
+      "bncc": [
+        "EF02LP12",
+        "EF12LP07",
+        "EF12LP19",
+        "EF15LP03"
+      ],
+      "visualCards": 3,
+      "visualSequence": false,
+      "imageWords": 1,
+      "letterAssembly": 20,
+      "syllableAssembly": 16,
+      "rhymePairs": 30,
+      "rhymeIdentification": 15,
+      "sentenceChallenges": 12,
+      "wordIdentification": 20,
+      "availability": {
+        "availableCount": 27,
+        "partialCount": 2,
+        "notAvailableCount": 0,
+        "availableModalities": [
+          "Consciência Fonológica",
+          "Sílabas",
+          "Sons",
+          "Rimas",
+          "Aliteração",
+          "Som ↔ Letra",
+          "Formação de Palavras",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Fluência",
+          "Compreensão",
+          "Interpretação",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Expressão Multimodal",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Inferência",
+          "Leitura de Imagens"
+        ],
+        "notAvailableModalities": []
+      }
+    },
+    {
+      "id": "tirinha-a-mudinha-no-patio",
+      "title": "A Mudinha no Pátio",
+      "origin": "Acervo FluiLer (Narrativa Gráfica Escolar)",
+      "bncc": [
+        "EF15LP14",
+        "EF15LP18",
+        "EF15LP03"
+      ],
+      "visualCards": 3,
+      "visualSequence": true,
+      "imageWords": 3,
+      "letterAssembly": 16,
+      "syllableAssembly": 16,
+      "rhymePairs": 26,
+      "rhymeIdentification": 13,
+      "sentenceChallenges": 7,
+      "wordIdentification": 16,
+      "availability": {
+        "availableCount": 26,
+        "partialCount": 2,
+        "notAvailableCount": 1,
+        "availableModalities": [
+          "Consciência Fonológica",
+          "Sílabas",
+          "Sons",
+          "Aliteração",
+          "Som ↔ Letra",
+          "Formação de Palavras",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Compreensão",
+          "Inferência",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Leitura de Imagens",
+          "Expressão Multimodal",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Fluência",
+          "Interpretação"
+        ],
+        "notAvailableModalities": [
+          "Rimas"
+        ]
+      }
+    },
+    {
+      "id": "bilhete-o-estojo-esquecido",
+      "title": "O Estojo de Lápis Esquecido",
+      "origin": "Acervo FluiLer (Cotidiano da Sala de Aula)",
+      "bncc": [
+        "EF15LP01",
+        "EF15LP03"
+      ],
+      "visualCards": 1,
+      "visualSequence": false,
+      "imageWords": 1,
+      "letterAssembly": 11,
+      "syllableAssembly": 11,
+      "rhymePairs": 10,
+      "rhymeIdentification": 5,
+      "sentenceChallenges": 5,
+      "wordIdentification": 11,
+      "availability": {
+        "availableCount": 22,
+        "partialCount": 6,
+        "notAvailableCount": 1,
+        "availableModalities": [
+          "Consciência Fonológica",
+          "Sílabas",
+          "Sons",
+          "Aliteração",
+          "Som ↔ Letra",
+          "Formação de Palavras",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Compreensão",
+          "Interpretação",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Fluência",
+          "Inferência",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": [
+          "Rimas"
+        ]
+      }
+    },
+    {
+      "id": "receita-salada-de-frutas-arco-iris",
+      "title": "Saladinha de Frutas Arco-Íris",
+      "origin": "Acervo FluiLer (Culinária Pedagógica Segura)",
+      "bncc": [
+        "EF12LP04",
+        "EF15LP03"
+      ],
+      "visualCards": 5,
+      "visualSequence": true,
+      "imageWords": 5,
+      "letterAssembly": 14,
+      "syllableAssembly": 13,
+      "rhymePairs": 8,
+      "rhymeIdentification": 4,
+      "sentenceChallenges": 7,
+      "wordIdentification": 14,
+      "availability": {
+        "availableCount": 22,
+        "partialCount": 6,
+        "notAvailableCount": 1,
+        "availableModalities": [
+          "Consciência Fonológica",
+          "Sílabas",
+          "Sons",
+          "Aliteração",
+          "Som ↔ Letra",
+          "Formação de Palavras",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Compreensão",
+          "Inferência",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Fluência",
+          "Interpretação",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": [
+          "Rimas"
+        ]
+      }
+    },
+    {
+      "id": "cartaz-cuide-do-nosso-livro",
+      "title": "Cuide Bem do Nosso Livro!",
+      "origin": "Biblioteca da Escola FluiLer",
+      "bncc": [
+        "EF12LP10",
+        "EF15LP01",
+        "EF15LP03"
+      ],
+      "visualCards": 2,
+      "visualSequence": false,
+      "imageWords": 4,
+      "letterAssembly": 10,
+      "syllableAssembly": 9,
+      "rhymePairs": 8,
+      "rhymeIdentification": 4,
+      "sentenceChallenges": 3,
+      "wordIdentification": 10,
+      "availability": {
+        "availableCount": 24,
+        "partialCount": 3,
+        "notAvailableCount": 2,
+        "availableModalities": [
+          "Consciência Fonológica",
+          "Sílabas",
+          "Sons",
+          "Aliteração",
+          "Som ↔ Letra",
+          "Formação de Palavras",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Interpretação",
+          "Inferência",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Leitura de Imagens",
+          "Expressão Multimodal",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Fluência",
+          "Oralidade",
+          "Leitura Expressiva"
+        ],
+        "notAvailableModalities": [
+          "Rimas",
+          "Compreensão"
+        ]
+      }
+    },
+    {
+      "id": "parlenda-batatinha-quando-nasce",
+      "title": "Batatinha Quando Nasce",
+      "origin": "Tradição oral — versão de circulação popular. Não é recuperação de arquivo anterior.",
+      "bncc": [
+        "EF01LP16",
+        "EF12LP19",
+        "EF15LP03"
+      ],
+      "visualCards": 2,
+      "visualSequence": false,
+      "imageWords": 3,
+      "letterAssembly": 12,
+      "syllableAssembly": 9,
+      "rhymePairs": 4,
+      "rhymeIdentification": 2,
+      "sentenceChallenges": 4,
+      "wordIdentification": 12,
+      "availability": {
+        "availableCount": 20,
+        "partialCount": 8,
+        "notAvailableCount": 1,
+        "availableModalities": [
+          "Sílabas",
+          "Som ↔ Letra",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Fluência",
+          "Compreensão",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Consciência Fonológica",
+          "Sons",
+          "Rimas",
+          "Aliteração",
+          "Interpretação",
+          "Inferência",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": [
+          "Formação de Palavras"
+        ]
+      }
+    },
+    {
+      "id": "fabula-a-raposa-e-as-uvas",
+      "title": "A Raposa e as Uvas",
+      "origin": "Reconto editorial novo de fábula atribuída a Esopo; narrativa em domínio público, redação elaborada com apoio de IA.",
+      "bncc": [
+        "EF15LP01",
+        "EF15LP03",
+        "EF15LP18"
+      ],
+      "visualCards": 3,
+      "visualSequence": true,
+      "imageWords": 2,
+      "letterAssembly": 13,
+      "syllableAssembly": 12,
+      "rhymePairs": 0,
+      "rhymeIdentification": 0,
+      "sentenceChallenges": 4,
+      "wordIdentification": 13,
+      "availability": {
+        "availableCount": 17,
+        "partialCount": 8,
+        "notAvailableCount": 4,
+        "availableModalities": [
+          "Sílabas",
+          "Som ↔ Letra",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Compreensão",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Consciência Fonológica",
+          "Fluência",
+          "Interpretação",
+          "Inferência",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": [
+          "Sons",
+          "Rimas",
+          "Aliteração",
+          "Formação de Palavras"
+        ]
+      }
+    },
+    {
+      "id": "conto-no-jardim-da-escola",
+      "title": "No Jardim da Escola",
+      "origin": "Texto editorial novo para o FluiLer, elaborado com apoio de IA; situação fictícia. Não é recuperação de original ausente.",
+      "bncc": [
+        "EF15LP01",
+        "EF15LP03",
+        "EF15LP18"
+      ],
+      "visualCards": 3,
+      "visualSequence": true,
+      "imageWords": 5,
+      "letterAssembly": 13,
+      "syllableAssembly": 13,
+      "rhymePairs": 8,
+      "rhymeIdentification": 4,
+      "sentenceChallenges": 3,
+      "wordIdentification": 13,
+      "availability": {
+        "availableCount": 21,
+        "partialCount": 7,
+        "notAvailableCount": 1,
+        "availableModalities": [
+          "Consciência Fonológica",
+          "Sílabas",
+          "Sons",
+          "Aliteração",
+          "Som ↔ Letra",
+          "Formação de Palavras",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Compreensão",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Fluência",
+          "Interpretação",
+          "Inferência",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": [
+          "Rimas"
+        ]
+      }
+    },
+    {
+      "id": "receita-vitamina-gostosa-de-banana",
+      "title": "Vitamina Gostosa de Banana",
+      "origin": "Texto editorial novo para o FluiLer, elaborado com apoio de IA; situação fictícia. Não é recuperação de original ausente.",
+      "bncc": [
+        "EF12LP04",
+        "EF15LP03"
+      ],
+      "visualCards": 4,
+      "visualSequence": true,
+      "imageWords": 6,
+      "letterAssembly": 13,
+      "syllableAssembly": 12,
+      "rhymePairs": 4,
+      "rhymeIdentification": 2,
+      "sentenceChallenges": 7,
+      "wordIdentification": 13,
+      "availability": {
+        "availableCount": 17,
+        "partialCount": 10,
+        "notAvailableCount": 2,
+        "availableModalities": [
+          "Sílabas",
+          "Som ↔ Letra",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Compreensão",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Consciência Fonológica",
+          "Sons",
+          "Aliteração",
+          "Fluência",
+          "Interpretação",
+          "Inferência",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": [
+          "Rimas",
+          "Formação de Palavras"
+        ]
+      }
+    },
+    {
+      "id": "convite-encontro-de-leitura",
+      "title": "Encontro de Leitura",
+      "origin": "Texto editorial novo para o FluiLer, elaborado com apoio de IA; situação fictícia. Não é recuperação de original ausente.",
+      "bncc": [
+        "EF15LP01",
+        "EF15LP03",
+        "EF15LP18"
+      ],
+      "visualCards": 2,
+      "visualSequence": false,
+      "imageWords": 1,
+      "letterAssembly": 11,
+      "syllableAssembly": 11,
+      "rhymePairs": 0,
+      "rhymeIdentification": 0,
+      "sentenceChallenges": 2,
+      "wordIdentification": 11,
+      "availability": {
+        "availableCount": 21,
+        "partialCount": 7,
+        "notAvailableCount": 1,
+        "availableModalities": [
+          "Consciência Fonológica",
+          "Sílabas",
+          "Sons",
+          "Aliteração",
+          "Som ↔ Letra",
+          "Formação de Palavras",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Compreensão",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Fluência",
+          "Interpretação",
+          "Inferência",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": [
+          "Rimas"
+        ]
+      }
+    },
+    {
+      "id": "noticia-a-horta-ganhou-placas",
+      "title": "A Horta Ganhou Placas",
+      "origin": "Texto editorial novo para o FluiLer, elaborado com apoio de IA; situação fictícia. Não é recuperação de original ausente.",
+      "bncc": [
+        "EF15LP01",
+        "EF15LP03",
+        "EF15LP18"
+      ],
+      "visualCards": 2,
+      "visualSequence": false,
+      "imageWords": 3,
+      "letterAssembly": 12,
+      "syllableAssembly": 12,
+      "rhymePairs": 0,
+      "rhymeIdentification": 0,
+      "sentenceChallenges": 4,
+      "wordIdentification": 12,
+      "availability": {
+        "availableCount": 17,
+        "partialCount": 8,
+        "notAvailableCount": 4,
+        "availableModalities": [
+          "Sílabas",
+          "Som ↔ Letra",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Compreensão",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Consciência Fonológica",
+          "Fluência",
+          "Interpretação",
+          "Inferência",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": [
+          "Sons",
+          "Rimas",
+          "Aliteração",
+          "Formação de Palavras"
+        ]
+      }
+    },
+    {
+      "id": "informativo-uma-conversa-na-feira",
+      "title": "Uma Conversa na Feira",
+      "origin": "Texto editorial novo para o FluiLer, elaborado com apoio de IA; situação fictícia. Não é recuperação de original ausente.",
+      "bncc": [
+        "EF15LP01",
+        "EF15LP03",
+        "EF15LP18"
+      ],
+      "visualCards": 2,
+      "visualSequence": false,
+      "imageWords": 6,
+      "letterAssembly": 11,
+      "syllableAssembly": 11,
+      "rhymePairs": 0,
+      "rhymeIdentification": 0,
+      "sentenceChallenges": 4,
+      "wordIdentification": 11,
+      "availability": {
+        "availableCount": 17,
+        "partialCount": 8,
+        "notAvailableCount": 4,
+        "availableModalities": [
+          "Sílabas",
+          "Som ↔ Letra",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Compreensão",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Consciência Fonológica",
+          "Fluência",
+          "Interpretação",
+          "Inferência",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": [
+          "Sons",
+          "Rimas",
+          "Aliteração",
+          "Formação de Palavras"
+        ]
+      }
+    },
+    {
+      "id": "instrucao-como-organizar-uma-lista",
+      "title": "Como Organizar uma Lista",
+      "origin": "Texto editorial novo para o FluiLer, elaborado com apoio de IA; situação fictícia. Não é recuperação de original ausente.",
+      "bncc": [
+        "EF15LP01",
+        "EF15LP03",
+        "EF15LP18"
+      ],
+      "visualCards": 3,
+      "visualSequence": true,
+      "imageWords": 3,
+      "letterAssembly": 11,
+      "syllableAssembly": 11,
+      "rhymePairs": 0,
+      "rhymeIdentification": 0,
+      "sentenceChallenges": 6,
+      "wordIdentification": 11,
+      "availability": {
+        "availableCount": 20,
+        "partialCount": 7,
+        "notAvailableCount": 2,
+        "availableModalities": [
+          "Consciência Fonológica",
+          "Sílabas",
+          "Sons",
+          "Aliteração",
+          "Som ↔ Letra",
+          "Consciência de Palavras",
+          "Vocabulário",
+          "Construção de Frases",
+          "Leitura",
+          "Compreensão",
+          "Organização Textual",
+          "Gênero Textual",
+          "Escuta",
+          "Produção Textual",
+          "Desenho e Pintura",
+          "Recomposição",
+          "Sondagem e Evidências",
+          "DUA - Representação",
+          "DUA - Ação e Expressão",
+          "DUA - Engajamento"
+        ],
+        "partialModalities": [
+          "Fluência",
+          "Interpretação",
+          "Inferência",
+          "Oralidade",
+          "Leitura Expressiva",
+          "Leitura de Imagens",
+          "Expressão Multimodal"
+        ],
+        "notAvailableModalities": [
+          "Rimas",
+          "Formação de Palavras"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1655 @@
+{
+  "version": "2.1.3",
+  "date": "2026-11-01",
+  "preservationRequirements": 14,
+  "adjustmentRequirements": 120,
+  "humanSessionsCompleted": 0,
+  "items": [
+    {
+      "id": "2.01",
+      "section": 2,
+      "demand": "Identidade visual e pedagógica do FluiLer — Engenhoca Educacional.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.02",
+      "section": 2,
+      "demand": "Trilha Pedagógica dos Elementos, seus ambientes, personagens e funcionalidades.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.03",
+      "section": 2,
+      "demand": "Áreas do Aluno, Professor e Família.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.04",
+      "section": 2,
+      "demand": "Atividades de alfabetização inicial, letras e sons.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.05",
+      "section": 2,
+      "demand": "Famílias silábicas e experiências fonológicas.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.06",
+      "section": 2,
+      "demand": "Banco de palavras e estruturas silábicas simples e complexas.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.07",
+      "section": 2,
+      "demand": "Formação de palavras, consciência de palavras e consciência de rimas.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.08",
+      "section": 2,
+      "demand": "Jogos, atividades interativas e desafios existentes.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.09",
+      "section": 2,
+      "demand": "Leitura guiada, gêneros textuais e acervo de histórias.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.10",
+      "section": 2,
+      "demand": "Produção textual, compreensão leitora e atividades de oralidade.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.11",
+      "section": 2,
+      "demand": "Sondagens e avaliações diagnósticas.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.12",
+      "section": 2,
+      "demand": "Registros de evidências formativas, progresso e relatórios.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.13",
+      "section": 2,
+      "demand": "Recursos de acessibilidade, áudio e imagens já implementados.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "2.14",
+      "section": 2,
+      "demand": "Serviços de armazenamento e integrações entre componentes.",
+      "status": "Preservado",
+      "references": [
+        "src/App.tsx",
+        "tests/visualCommunication.test.ts"
+      ],
+      "scope": "Sete textos recebidos preservados e oito acréscimos editoriais identificados; sem alegação de recuperação dos originais ausentes."
+    },
+    {
+      "id": "3.01",
+      "section": 3,
+      "demand": "Reorganizar a página inicial com menos informações simultâneas.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/StudentHomeDashboard.tsx",
+        "src/utils/studentResume.ts"
+      ],
+      "scope": "Quatro entradas com áudio, sugestão e retomada. Reconhecimento por não leitores exige observação real."
+    },
+    {
+      "id": "3.02",
+      "section": 3,
+      "demand": "Criar botões grandes, ilustrados e acompanhados de áudio.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/StudentHomeDashboard.tsx",
+        "src/utils/studentResume.ts"
+      ],
+      "scope": "Quatro entradas com áudio, sugestão e retomada. Reconhecimento por não leitores exige observação real."
+    },
+    {
+      "id": "3.03",
+      "section": 3,
+      "demand": "Destacar as opções COMEÇAR e CONTINUAR.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/StudentHomeDashboard.tsx",
+        "src/utils/studentResume.ts"
+      ],
+      "scope": "Quatro entradas com áudio, sugestão e retomada. Reconhecimento por não leitores exige observação real."
+    },
+    {
+      "id": "3.04",
+      "section": 3,
+      "demand": "Organizar quatro entradas principais: OUVIR HISTÓRIAS, BRINCAR COM PALAVRAS, JOGAR e CRIAR.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/StudentHomeDashboard.tsx",
+        "src/utils/studentResume.ts"
+      ],
+      "scope": "Quatro entradas com áudio, sugestão e retomada. Reconhecimento por não leitores exige observação real."
+    },
+    {
+      "id": "3.05",
+      "section": 3,
+      "demand": "Utilizar ilustrações facilmente reconhecíveis por estudantes não leitores.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/StudentHomeDashboard.tsx",
+        "src/utils/studentResume.ts"
+      ],
+      "scope": "Quatro entradas com áudio, sugestão e retomada. Reconhecimento por não leitores exige observação real."
+    },
+    {
+      "id": "3.06",
+      "section": 3,
+      "demand": "Criar navegação simples, com botão de retorno ao início.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/StudentHomeDashboard.tsx",
+        "src/utils/studentResume.ts"
+      ],
+      "scope": "Quatro entradas com áudio, sugestão e retomada. Reconhecimento por não leitores exige observação real."
+    },
+    {
+      "id": "3.07",
+      "section": 3,
+      "demand": "Manter a trilha, o avatar, os cenários e o progresso existente.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/StudentHomeDashboard.tsx",
+        "src/utils/studentResume.ts"
+      ],
+      "scope": "Quatro entradas com áudio, sugestão e retomada. Reconhecimento por não leitores exige observação real."
+    },
+    {
+      "id": "3.08",
+      "section": 3,
+      "demand": "Oferecer uma atividade sugerida, sem impedir que o estudante escolha outra.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/StudentHomeDashboard.tsx",
+        "src/utils/studentResume.ts"
+      ],
+      "scope": "Quatro entradas com áudio, sugestão e retomada. Reconhecimento por não leitores exige observação real."
+    },
+    {
+      "id": "3.09",
+      "section": 3,
+      "demand": "Disponibilizar um modo simplificado com redução de estímulos.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/StudentHomeDashboard.tsx",
+        "src/utils/studentResume.ts"
+      ],
+      "scope": "Quatro entradas com áudio, sugestão e retomada. Reconhecimento por não leitores exige observação real."
+    },
+    {
+      "id": "4.01",
+      "section": 4,
+      "demand": "Acrescentar imagens aos acontecimentos principais das histórias.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/stageCVisuals.ts",
+        "src/data/editorialExpansion.ts",
+        "tests/recovery21.test.ts"
+      ],
+      "scope": "Texto, imagem, descrição, zoom e sequência relacionados ao gênero; modalidades sem suporte não são forçadas."
+    },
+    {
+      "id": "4.02",
+      "section": 4,
+      "demand": "Relacionar as ilustrações aos trechos correspondentes.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/stageCVisuals.ts",
+        "src/data/editorialExpansion.ts",
+        "tests/recovery21.test.ts"
+      ],
+      "scope": "Texto, imagem, descrição, zoom e sequência relacionados ao gênero; modalidades sem suporte não são forçadas."
+    },
+    {
+      "id": "4.03",
+      "section": 4,
+      "demand": "Manter os personagens e cenários visualmente consistentes.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/stageCVisuals.ts",
+        "src/data/editorialExpansion.ts",
+        "tests/recovery21.test.ts"
+      ],
+      "scope": "Texto, imagem, descrição, zoom e sequência relacionados ao gênero; modalidades sem suporte não são forçadas."
+    },
+    {
+      "id": "4.04",
+      "section": 4,
+      "demand": "Permitir leitura acompanhada de imagem, texto e narração.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/stageCVisuals.ts",
+        "src/data/editorialExpansion.ts",
+        "tests/recovery21.test.ts"
+      ],
+      "scope": "Texto, imagem, descrição, zoom e sequência relacionados ao gênero; modalidades sem suporte não são forçadas."
+    },
+    {
+      "id": "4.05",
+      "section": 4,
+      "demand": "Oferecer ampliação de imagens e descrições acessíveis.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/stageCVisuals.ts",
+        "src/data/editorialExpansion.ts",
+        "tests/recovery21.test.ts"
+      ],
+      "scope": "Texto, imagem, descrição, zoom e sequência relacionados ao gênero; modalidades sem suporte não são forçadas."
+    },
+    {
+      "id": "4.06",
+      "section": 4,
+      "demand": "Utilizar sequências visuais para trabalhar começo, meio e fim.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/stageCVisuals.ts",
+        "src/data/editorialExpansion.ts",
+        "tests/recovery21.test.ts"
+      ],
+      "scope": "Texto, imagem, descrição, zoom e sequência relacionados ao gênero; modalidades sem suporte não são forçadas."
+    },
+    {
+      "id": "4.07",
+      "section": 4,
+      "demand": "Criar atividades de associação entre imagem e acontecimento.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/stageCVisuals.ts",
+        "src/data/editorialExpansion.ts",
+        "tests/recovery21.test.ts"
+      ],
+      "scope": "Texto, imagem, descrição, zoom e sequência relacionados ao gênero; modalidades sem suporte não são forçadas."
+    },
+    {
+      "id": "4.08",
+      "section": 4,
+      "demand": "Ilustrar etapas de receitas e outros textos funcionais, respeitando suas características.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/stageCVisuals.ts",
+        "src/data/editorialExpansion.ts",
+        "tests/recovery21.test.ts"
+      ],
+      "scope": "Texto, imagem, descrição, zoom e sequência relacionados ao gênero; modalidades sem suporte não são forçadas."
+    },
+    {
+      "id": "4.09",
+      "section": 4,
+      "demand": "Preservar a autoria e a redação dos textos.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/stageCVisuals.ts",
+        "src/data/editorialExpansion.ts",
+        "tests/recovery21.test.ts"
+      ],
+      "scope": "Texto, imagem, descrição, zoom e sequência relacionados ao gênero; modalidades sem suporte não são forçadas."
+    },
+    {
+      "id": "5.01",
+      "section": 5,
+      "demand": "Padronizar letras normal, ampliada e extra-ampliada.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/accessibilityPreferences.ts",
+        "src/components/AccessibilityControls.tsx",
+        "src/index.css"
+      ],
+      "scope": "Preferências compartilhadas, contraste e foco. Inspeção automática parcial não certifica todo o aplicativo."
+    },
+    {
+      "id": "5.02",
+      "section": 5,
+      "demand": "Utilizar comandos curtos, simples e objetivos.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/accessibilityPreferences.ts",
+        "src/components/AccessibilityControls.tsx",
+        "src/index.css"
+      ],
+      "scope": "Preferências compartilhadas, contraste e foco. Inspeção automática parcial não certifica todo o aplicativo."
+    },
+    {
+      "id": "5.03",
+      "section": 5,
+      "demand": "Permitir repetir instruções em áudio.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/accessibilityPreferences.ts",
+        "src/components/AccessibilityControls.tsx",
+        "src/index.css"
+      ],
+      "scope": "Preferências compartilhadas, contraste e foco. Inspeção automática parcial não certifica todo o aplicativo."
+    },
+    {
+      "id": "5.04",
+      "section": 5,
+      "demand": "Oferecer uma pergunta por vez.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/accessibilityPreferences.ts",
+        "src/components/AccessibilityControls.tsx",
+        "src/index.css"
+      ],
+      "scope": "Preferências compartilhadas, contraste e foco. Inspeção automática parcial não certifica todo o aplicativo."
+    },
+    {
+      "id": "5.05",
+      "section": 5,
+      "demand": "Criar modo de redução de estímulos visuais e sonoros.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/accessibilityPreferences.ts",
+        "src/components/AccessibilityControls.tsx",
+        "src/index.css"
+      ],
+      "scope": "Preferências compartilhadas, contraste e foco. Inspeção automática parcial não certifica todo o aplicativo."
+    },
+    {
+      "id": "5.06",
+      "section": 5,
+      "demand": "Padronizar botões grandes e contrastes adequados.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/accessibilityPreferences.ts",
+        "src/components/AccessibilityControls.tsx",
+        "src/index.css"
+      ],
+      "scope": "Preferências compartilhadas, contraste e foco. Inspeção automática parcial não certifica todo o aplicativo."
+    },
+    {
+      "id": "5.07",
+      "section": 5,
+      "demand": "Evitar animações desnecessárias.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/accessibilityPreferences.ts",
+        "src/components/AccessibilityControls.tsx",
+        "src/index.css"
+      ],
+      "scope": "Preferências compartilhadas, contraste e foco. Inspeção automática parcial não certifica todo o aplicativo."
+    },
+    {
+      "id": "5.08",
+      "section": 5,
+      "demand": "Permitir ajustar a velocidade da narração.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/accessibilityPreferences.ts",
+        "src/components/AccessibilityControls.tsx",
+        "src/index.css"
+      ],
+      "scope": "Preferências compartilhadas, contraste e foco. Inspeção automática parcial não certifica todo o aplicativo."
+    },
+    {
+      "id": "5.09",
+      "section": 5,
+      "demand": "Manter preferências de acessibilidade entre atividades.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/accessibilityPreferences.ts",
+        "src/components/AccessibilityControls.tsx",
+        "src/index.css"
+      ],
+      "scope": "Preferências compartilhadas, contraste e foco. Inspeção automática parcial não certifica todo o aplicativo."
+    },
+    {
+      "id": "5.10",
+      "section": 5,
+      "demand": "Garantir acesso à Trilha dos Elementos por ícones e áudio, sem depender exclusivamente da leitura.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/accessibilityPreferences.ts",
+        "src/components/AccessibilityControls.tsx",
+        "src/index.css"
+      ],
+      "scope": "Preferências compartilhadas, contraste e foco. Inspeção automática parcial não certifica todo o aplicativo."
+    },
+    {
+      "id": "6.01",
+      "section": 6,
+      "demand": "Incorporar pictogramas com palavras e áudio.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/CommunicationBoard.tsx",
+        "src/components/AlternativeResponsePanel.tsx"
+      ],
+      "scope": "CAA é apoio; escrita e fala mediada são descritivas. Ditado depende do navegador e pode usar conexão."
+    },
+    {
+      "id": "6.02",
+      "section": 6,
+      "demand": "Oferecer cartões como SIM, NÃO, AJUDA, MAIS, QUERO, PAUSA, TERMINAR e NÃO ENTENDI.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/CommunicationBoard.tsx",
+        "src/components/AlternativeResponsePanel.tsx"
+      ],
+      "scope": "CAA é apoio; escrita e fala mediada são descritivas. Ditado depende do navegador e pode usar conexão."
+    },
+    {
+      "id": "6.03",
+      "section": 6,
+      "demand": "Permitir responder atividades tocando em imagens.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/CommunicationBoard.tsx",
+        "src/components/AlternativeResponsePanel.tsx"
+      ],
+      "scope": "CAA é apoio; escrita e fala mediada são descritivas. Ditado depende do navegador e pode usar conexão."
+    },
+    {
+      "id": "6.04",
+      "section": 6,
+      "demand": "Integrar pictogramas aos jogos e à leitura guiada.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/CommunicationBoard.tsx",
+        "src/components/AlternativeResponsePanel.tsx"
+      ],
+      "scope": "CAA é apoio; escrita e fala mediada são descritivas. Ditado depende do navegador e pode usar conexão."
+    },
+    {
+      "id": "6.05",
+      "section": 6,
+      "demand": "Disponibilizar cartões para pedir ajuda, repetir ou interromper uma atividade.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/CommunicationBoard.tsx",
+        "src/components/AlternativeResponsePanel.tsx"
+      ],
+      "scope": "CAA é apoio; escrita e fala mediada são descritivas. Ditado depende do navegador e pode usar conexão."
+    },
+    {
+      "id": "6.06",
+      "section": 6,
+      "demand": "Permitir respostas por imagem, palavra, toque ou oralidade, conforme a necessidade.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/CommunicationBoard.tsx",
+        "src/components/AlternativeResponsePanel.tsx"
+      ],
+      "scope": "CAA é apoio; escrita e fala mediada são descritivas. Ditado depende do navegador e pode usar conexão."
+    },
+    {
+      "id": "6.07",
+      "section": 6,
+      "demand": "Utilizar símbolos claros, consistentes e com direitos de uso adequados.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/CommunicationBoard.tsx",
+        "src/components/AlternativeResponsePanel.tsx"
+      ],
+      "scope": "CAA é apoio; escrita e fala mediada são descritivas. Ditado depende do navegador e pode usar conexão."
+    },
+    {
+      "id": "6.08",
+      "section": 6,
+      "demand": "Preservar os apoios de CAA utilizados pelo estudante.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/CommunicationBoard.tsx",
+        "src/components/AlternativeResponsePanel.tsx"
+      ],
+      "scope": "CAA é apoio; escrita e fala mediada são descritivas. Ditado depende do navegador e pode usar conexão."
+    },
+    {
+      "id": "6.09",
+      "section": 6,
+      "demand": "Não interpretar automaticamente o uso de CAA como dificuldade de aprendizagem.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/CommunicationBoard.tsx",
+        "src/components/AlternativeResponsePanel.tsx"
+      ],
+      "scope": "CAA é apoio; escrita e fala mediada são descritivas. Ditado depende do navegador e pode usar conexão."
+    },
+    {
+      "id": "7.01",
+      "section": 7,
+      "demand": "Revisar autenticação e permissões dos três perfis.",
+      "status": "Implementado em código",
+      "references": [
+        "server/centralStore.ts",
+        "server/security.ts",
+        "src/services/centralSyncService.ts",
+        "tests/security.test.ts",
+        "tests/clientSync.test.ts"
+      ],
+      "scope": "Controles testados com dados sintéticos. Firestore, recuperação de infraestrutura e configuração real precisam de ensaio no destino."
+    },
+    {
+      "id": "7.02",
+      "section": 7,
+      "demand": "Proteger informações individuais dos estudantes.",
+      "status": "Implementado em código",
+      "references": [
+        "server/centralStore.ts",
+        "server/security.ts",
+        "src/services/centralSyncService.ts",
+        "tests/security.test.ts",
+        "tests/clientSync.test.ts"
+      ],
+      "scope": "Controles testados com dados sintéticos. Firestore, recuperação de infraestrutura e configuração real precisam de ensaio no destino."
+    },
+    {
+      "id": "7.03",
+      "section": 7,
+      "demand": "Restringir acesso aos relatórios e registros escolares.",
+      "status": "Implementado em código",
+      "references": [
+        "server/centralStore.ts",
+        "server/security.ts",
+        "src/services/centralSyncService.ts",
+        "tests/security.test.ts",
+        "tests/clientSync.test.ts"
+      ],
+      "scope": "Controles testados com dados sintéticos. Firestore, recuperação de infraestrutura e configuração real precisam de ensaio no destino."
+    },
+    {
+      "id": "7.04",
+      "section": 7,
+      "demand": "Garantir a preservação do progresso.",
+      "status": "Implementado em código",
+      "references": [
+        "server/centralStore.ts",
+        "server/security.ts",
+        "src/services/centralSyncService.ts",
+        "tests/security.test.ts",
+        "tests/clientSync.test.ts"
+      ],
+      "scope": "Controles testados com dados sintéticos. Firestore, recuperação de infraestrutura e configuração real precisam de ensaio no destino."
+    },
+    {
+      "id": "7.05",
+      "section": 7,
+      "demand": "Validar backup e recuperação de dados.",
+      "status": "Implementado; conferir no destino",
+      "references": [
+        "server/centralStore.ts",
+        "server/security.ts",
+        "src/services/centralSyncService.ts",
+        "tests/security.test.ts",
+        "tests/clientSync.test.ts"
+      ],
+      "scope": "Controles testados com dados sintéticos. Firestore, recuperação de infraestrutura e configuração real precisam de ensaio no destino."
+    },
+    {
+      "id": "7.06",
+      "section": 7,
+      "demand": "Prevenir perda de informações durante atualizações.",
+      "status": "Implementado em código",
+      "references": [
+        "server/centralStore.ts",
+        "server/security.ts",
+        "src/services/centralSyncService.ts",
+        "tests/security.test.ts",
+        "tests/clientSync.test.ts"
+      ],
+      "scope": "Controles testados com dados sintéticos. Firestore, recuperação de infraestrutura e configuração real precisam de ensaio no destino."
+    },
+    {
+      "id": "7.07",
+      "section": 7,
+      "demand": "Testar comportamento em caso de conexão instável.",
+      "status": "Parcial; conflito intermitente requer investigação",
+      "references": [
+        "server/centralStore.ts",
+        "server/security.ts",
+        "src/services/centralSyncService.ts",
+        "tests/security.test.ts",
+        "tests/clientSync.test.ts"
+      ],
+      "scope": "Uma regressão exibiu conciliação e evidências na fila local; duas repetições isoladas passaram. Causa ainda não determinada. Não considerar encerrada antes de ensaios de recarga durante envio e correção de eventual conflito indevido."
+    },
+    {
+      "id": "7.08",
+      "section": 7,
+      "demand": "Corrigir vulnerabilidades antes da utilização com dados reais.",
+      "status": "Implementado; conferir no destino",
+      "references": [
+        "server/centralStore.ts",
+        "server/security.ts",
+        "src/services/centralSyncService.ts",
+        "tests/security.test.ts",
+        "tests/clientSync.test.ts"
+      ],
+      "scope": "Controles testados com dados sintéticos. Firestore, recuperação de infraestrutura e configuração real precisam de ensaio no destino."
+    },
+    {
+      "id": "8.01",
+      "section": 8,
+      "demand": "Pareamento de imagem e palavra.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/MatchingGames.tsx",
+        "src/utils/matchingGames.ts",
+        "src/components/WordBuilderGame.tsx",
+        "src/components/VisualStoryActivity.tsx"
+      ],
+      "scope": "Oito modos novos complementam letras/sílabas móveis e sequência. Imagens duplicadas e comparações não revisadas são excluídas."
+    },
+    {
+      "id": "8.02",
+      "section": 8,
+      "demand": "Pareamento de som e imagem.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/MatchingGames.tsx",
+        "src/utils/matchingGames.ts",
+        "src/components/WordBuilderGame.tsx",
+        "src/components/VisualStoryActivity.tsx"
+      ],
+      "scope": "Oito modos novos complementam letras/sílabas móveis e sequência. Imagens duplicadas e comparações não revisadas são excluídas."
+    },
+    {
+      "id": "8.03",
+      "section": 8,
+      "demand": "Associação de letra e som.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/MatchingGames.tsx",
+        "src/utils/matchingGames.ts",
+        "src/components/WordBuilderGame.tsx",
+        "src/components/VisualStoryActivity.tsx"
+      ],
+      "scope": "Oito modos novos complementam letras/sílabas móveis e sequência. Imagens duplicadas e comparações não revisadas são excluídas."
+    },
+    {
+      "id": "8.04",
+      "section": 8,
+      "demand": "Associação de sílaba e imagem.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/MatchingGames.tsx",
+        "src/utils/matchingGames.ts",
+        "src/components/WordBuilderGame.tsx",
+        "src/components/VisualStoryActivity.tsx"
+      ],
+      "scope": "Oito modos novos complementam letras/sílabas móveis e sequência. Imagens duplicadas e comparações não revisadas são excluídas."
+    },
+    {
+      "id": "8.05",
+      "section": 8,
+      "demand": "Associação de frase e imagem.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/MatchingGames.tsx",
+        "src/utils/matchingGames.ts",
+        "src/components/WordBuilderGame.tsx",
+        "src/components/VisualStoryActivity.tsx"
+      ],
+      "scope": "Oito modos novos complementam letras/sílabas móveis e sequência. Imagens duplicadas e comparações não revisadas são excluídas."
+    },
+    {
+      "id": "8.06",
+      "section": 8,
+      "demand": "Formação de palavras com letras móveis virtuais.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/MatchingGames.tsx",
+        "src/utils/matchingGames.ts",
+        "src/components/WordBuilderGame.tsx",
+        "src/components/VisualStoryActivity.tsx"
+      ],
+      "scope": "Oito modos novos complementam letras/sílabas móveis e sequência. Imagens duplicadas e comparações não revisadas são excluídas."
+    },
+    {
+      "id": "8.07",
+      "section": 8,
+      "demand": "Formação de palavras com sílabas móveis.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/MatchingGames.tsx",
+        "src/utils/matchingGames.ts",
+        "src/components/WordBuilderGame.tsx",
+        "src/components/VisualStoryActivity.tsx"
+      ],
+      "scope": "Oito modos novos complementam letras/sílabas móveis e sequência. Imagens duplicadas e comparações não revisadas são excluídas."
+    },
+    {
+      "id": "8.08",
+      "section": 8,
+      "demand": "Identificação dos sons iniciais e finais.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/MatchingGames.tsx",
+        "src/utils/matchingGames.ts",
+        "src/components/WordBuilderGame.tsx",
+        "src/components/VisualStoryActivity.tsx"
+      ],
+      "scope": "Oito modos novos complementam letras/sílabas móveis e sequência. Imagens duplicadas e comparações não revisadas são excluídas."
+    },
+    {
+      "id": "8.09",
+      "section": 8,
+      "demand": "Jogos de memória com imagens e palavras.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/MatchingGames.tsx",
+        "src/utils/matchingGames.ts",
+        "src/components/WordBuilderGame.tsx",
+        "src/components/VisualStoryActivity.tsx"
+      ],
+      "scope": "Oito modos novos complementam letras/sílabas móveis e sequência. Imagens duplicadas e comparações não revisadas são excluídas."
+    },
+    {
+      "id": "8.10",
+      "section": 8,
+      "demand": "Organização de sequências de imagens.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/MatchingGames.tsx",
+        "src/utils/matchingGames.ts",
+        "src/components/WordBuilderGame.tsx",
+        "src/components/VisualStoryActivity.tsx"
+      ],
+      "scope": "Oito modos novos complementam letras/sílabas móveis e sequência. Imagens duplicadas e comparações não revisadas são excluídas."
+    },
+    {
+      "id": "9.01",
+      "section": 9,
+      "demand": "Corrigir inconsistências na geração de rimas.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/readingContext.ts",
+        "src/utils/linguisticCore.ts",
+        "src/utils/reviewedRhymes.ts",
+        "src/utils/formativeEvidenceStorage.ts"
+      ],
+      "scope": "Palavras são verificadas no texto. Rimas e comparações externas são identificadas. Ausência de tarefa pertinente é informada."
+    },
+    {
+      "id": "9.02",
+      "section": 9,
+      "demand": "Garantir que palavras e desafios correspondam ao texto selecionado.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/readingContext.ts",
+        "src/utils/linguisticCore.ts",
+        "src/utils/reviewedRhymes.ts",
+        "src/utils/formativeEvidenceStorage.ts"
+      ],
+      "scope": "Palavras são verificadas no texto. Rimas e comparações externas são identificadas. Ausência de tarefa pertinente é informada."
+    },
+    {
+      "id": "9.03",
+      "section": 9,
+      "demand": "Evitar atividades genéricas apresentadas como contextualizadas.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/readingContext.ts",
+        "src/utils/linguisticCore.ts",
+        "src/utils/reviewedRhymes.ts",
+        "src/utils/formativeEvidenceStorage.ts"
+      ],
+      "scope": "Palavras são verificadas no texto. Rimas e comparações externas são identificadas. Ausência de tarefa pertinente é informada."
+    },
+    {
+      "id": "9.04",
+      "section": 9,
+      "demand": "Preservar os feedbacks individuais das respostas.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/readingContext.ts",
+        "src/utils/linguisticCore.ts",
+        "src/utils/reviewedRhymes.ts",
+        "src/utils/formativeEvidenceStorage.ts"
+      ],
+      "scope": "Palavras são verificadas no texto. Rimas e comparações externas são identificadas. Ausência de tarefa pertinente é informada."
+    },
+    {
+      "id": "9.05",
+      "section": 9,
+      "demand": "Integrar corretamente as estratégias de recomposição dos 15 textos.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/readingContext.ts",
+        "src/utils/linguisticCore.ts",
+        "src/utils/reviewedRhymes.ts",
+        "src/utils/formativeEvidenceStorage.ts"
+      ],
+      "scope": "Palavras são verificadas no texto. Rimas e comparações externas são identificadas. Ausência de tarefa pertinente é informada."
+    },
+    {
+      "id": "9.06",
+      "section": 9,
+      "demand": "Garantir que mensagens de apoio correspondam aos recursos realmente exibidos.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/readingContext.ts",
+        "src/utils/linguisticCore.ts",
+        "src/utils/reviewedRhymes.ts",
+        "src/utils/formativeEvidenceStorage.ts"
+      ],
+      "scope": "Palavras são verificadas no texto. Rimas e comparações externas são identificadas. Ausência de tarefa pertinente é informada."
+    },
+    {
+      "id": "9.07",
+      "section": 9,
+      "demand": "Verificar a correção linguística e pedagógica dos desafios.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/readingContext.ts",
+        "src/utils/linguisticCore.ts",
+        "src/utils/reviewedRhymes.ts",
+        "src/utils/formativeEvidenceStorage.ts"
+      ],
+      "scope": "Palavras são verificadas no texto. Rimas e comparações externas são identificadas. Ausência de tarefa pertinente é informada."
+    },
+    {
+      "id": "9.08",
+      "section": 9,
+      "demand": "Manter registros pelo mecanismo central de evidências formativas.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/readingContext.ts",
+        "src/utils/linguisticCore.ts",
+        "src/utils/reviewedRhymes.ts",
+        "src/utils/formativeEvidenceStorage.ts"
+      ],
+      "scope": "Palavras são verificadas no texto. Rimas e comparações externas são identificadas. Ausência de tarefa pertinente é informada."
+    },
+    {
+      "id": "10.01",
+      "section": 10,
+      "demand": "Relacionar atividades a habilidades específicas da alfabetização.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/pedagogicalMatrix.ts",
+        "src/utils/bnccAlignment.ts",
+        "src/utils/learningSupport.ts",
+        "src/utils/studentTrail.ts"
+      ],
+      "scope": "Três caminhos de apoio, ajuste docente e escolha do estudante; não há classificação por idade ou diagnóstico. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "10.02",
+      "section": 10,
+      "demand": "Diferenciar reconhecimento, associação, formação, leitura, compreensão e produção.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/pedagogicalMatrix.ts",
+        "src/utils/bnccAlignment.ts",
+        "src/utils/learningSupport.ts",
+        "src/utils/studentTrail.ts"
+      ],
+      "scope": "Três caminhos de apoio, ajuste docente e escolha do estudante; não há classificação por idade ou diagnóstico. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "10.03",
+      "section": 10,
+      "demand": "Permitir ao professor ajustar a complexidade.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/pedagogicalMatrix.ts",
+        "src/utils/bnccAlignment.ts",
+        "src/utils/learningSupport.ts",
+        "src/utils/studentTrail.ts"
+      ],
+      "scope": "Três caminhos de apoio, ajuste docente e escolha do estudante; não há classificação por idade ou diagnóstico. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "10.04",
+      "section": 10,
+      "demand": "Oferecer retomadas e apoios conforme as evidências.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/pedagogicalMatrix.ts",
+        "src/utils/bnccAlignment.ts",
+        "src/utils/learningSupport.ts",
+        "src/utils/studentTrail.ts"
+      ],
+      "scope": "Três caminhos de apoio, ajuste docente e escolha do estudante; não há classificação por idade ou diagnóstico. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "10.05",
+      "section": 10,
+      "demand": "Mostrar ao estudante onde está e qual atividade pode realizar em seguida.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/pedagogicalMatrix.ts",
+        "src/utils/bnccAlignment.ts",
+        "src/utils/learningSupport.ts",
+        "src/utils/studentTrail.ts"
+      ],
+      "scope": "Três caminhos de apoio, ajuste docente e escolha do estudante; não há classificação por idade ou diagnóstico. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "10.06",
+      "section": 10,
+      "demand": "Permitir escolher outras atividades sem bloqueios desnecessários.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/pedagogicalMatrix.ts",
+        "src/utils/bnccAlignment.ts",
+        "src/utils/learningSupport.ts",
+        "src/utils/studentTrail.ts"
+      ],
+      "scope": "Três caminhos de apoio, ajuste docente e escolha do estudante; não há classificação por idade ou diagnóstico. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "10.07",
+      "section": 10,
+      "demand": "Registrar os apoios utilizados durante a aprendizagem.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/pedagogicalMatrix.ts",
+        "src/utils/bnccAlignment.ts",
+        "src/utils/learningSupport.ts",
+        "src/utils/studentTrail.ts"
+      ],
+      "scope": "Três caminhos de apoio, ajuste docente e escolha do estudante; não há classificação por idade ou diagnóstico. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "10.08",
+      "section": 10,
+      "demand": "Integrar os elementos da trilha aos relatórios individuais.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/pedagogicalMatrix.ts",
+        "src/utils/bnccAlignment.ts",
+        "src/utils/learningSupport.ts",
+        "src/utils/studentTrail.ts"
+      ],
+      "scope": "Três caminhos de apoio, ajuste docente e escolha do estudante; não há classificação por idade ou diagnóstico. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "10.09",
+      "section": 10,
+      "demand": "Evitar classificações rígidas baseadas apenas em série, idade ou diagnóstico.",
+      "status": "Implementado em código",
+      "references": [
+        "src/utils/pedagogicalMatrix.ts",
+        "src/utils/bnccAlignment.ts",
+        "src/utils/learningSupport.ts",
+        "src/utils/studentTrail.ts"
+      ],
+      "scope": "Três caminhos de apoio, ajuste docente e escolha do estudante; não há classificação por idade ou diagnóstico. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "11.01",
+      "section": 11,
+      "demand": "Desenvolver atividades com compras e preços.",
+      "status": "Implementado em código",
+      "references": [
+        "src/data/ejaContexts.ts",
+        "src/utils/communityActivity.ts",
+        "src/components/ContextLearningHub.tsx",
+        "src/components/EjaTrail.tsx",
+        "src/components/ContextFamilyArea.tsx"
+      ],
+      "scope": "Seis situações e 18 perguntas, mais situação local docente. EJA abre quatro textos cotidianos; o acervo completo fica acessível por escolha. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "11.02",
+      "section": 11,
+      "demand": "Trabalhar listas, receitas e mensagens.",
+      "status": "Implementado em código",
+      "references": [
+        "src/data/ejaContexts.ts",
+        "src/utils/communityActivity.ts",
+        "src/components/ContextLearningHub.tsx",
+        "src/components/EjaTrail.tsx",
+        "src/components/ContextFamilyArea.tsx"
+      ],
+      "scope": "Seis situações e 18 perguntas, mais situação local docente. EJA abre quatro textos cotidianos; o acervo completo fica acessível por escolha. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "11.03",
+      "section": 11,
+      "demand": "Incluir leitura de calendário e horários.",
+      "status": "Implementado em código",
+      "references": [
+        "src/data/ejaContexts.ts",
+        "src/utils/communityActivity.ts",
+        "src/components/ContextLearningHub.tsx",
+        "src/components/EjaTrail.tsx",
+        "src/components/ContextFamilyArea.tsx"
+      ],
+      "scope": "Seis situações e 18 perguntas, mais situação local docente. EJA abre quatro textos cotidianos; o acervo completo fica acessível por escolha. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "11.04",
+      "section": 11,
+      "demand": "Explorar situações de transporte e trabalho.",
+      "status": "Implementado em código",
+      "references": [
+        "src/data/ejaContexts.ts",
+        "src/utils/communityActivity.ts",
+        "src/components/ContextLearningHub.tsx",
+        "src/components/EjaTrail.tsx",
+        "src/components/ContextFamilyArea.tsx"
+      ],
+      "scope": "Seis situações e 18 perguntas, mais situação local docente. EJA abre quatro textos cotidianos; o acervo completo fica acessível por escolha. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "11.05",
+      "section": 11,
+      "demand": "Trabalhar formulários simples e informações do cotidiano.",
+      "status": "Implementado em código",
+      "references": [
+        "src/data/ejaContexts.ts",
+        "src/utils/communityActivity.ts",
+        "src/components/ContextLearningHub.tsx",
+        "src/components/EjaTrail.tsx",
+        "src/components/ContextFamilyArea.tsx"
+      ],
+      "scope": "Seis situações e 18 perguntas, mais situação local docente. EJA abre quatro textos cotidianos; o acervo completo fica acessível por escolha. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "11.06",
+      "section": 11,
+      "demand": "Utilizar imagens adequadas ao público jovem e adulto.",
+      "status": "Implementado em código",
+      "references": [
+        "src/data/ejaContexts.ts",
+        "src/utils/communityActivity.ts",
+        "src/components/ContextLearningHub.tsx",
+        "src/components/EjaTrail.tsx",
+        "src/components/ContextFamilyArea.tsx"
+      ],
+      "scope": "Seis situações e 18 perguntas, mais situação local docente. EJA abre quatro textos cotidianos; o acervo completo fica acessível por escolha. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "11.07",
+      "section": 11,
+      "demand": "Evitar infantilização de textos, personagens e recompensas.",
+      "status": "Implementado em código",
+      "references": [
+        "src/data/ejaContexts.ts",
+        "src/utils/communityActivity.ts",
+        "src/components/ContextLearningHub.tsx",
+        "src/components/EjaTrail.tsx",
+        "src/components/ContextFamilyArea.tsx"
+      ],
+      "scope": "Seis situações e 18 perguntas, mais situação local docente. EJA abre quatro textos cotidianos; o acervo completo fica acessível por escolha. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "11.08",
+      "section": 11,
+      "demand": "Reaproveitar o sistema de atividades, avaliações e relatórios.",
+      "status": "Implementado em código",
+      "references": [
+        "src/data/ejaContexts.ts",
+        "src/utils/communityActivity.ts",
+        "src/components/ContextLearningHub.tsx",
+        "src/components/EjaTrail.tsx",
+        "src/components/ContextFamilyArea.tsx"
+      ],
+      "scope": "Seis situações e 18 perguntas, mais situação local docente. EJA abre quatro textos cotidianos; o acervo completo fica acessível por escolha. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "11.09",
+      "section": 11,
+      "demand": "Adaptar os contextos à realidade da comunidade.",
+      "status": "Implementado em código",
+      "references": [
+        "src/data/ejaContexts.ts",
+        "src/utils/communityActivity.ts",
+        "src/components/ContextLearningHub.tsx",
+        "src/components/EjaTrail.tsx",
+        "src/components/ContextFamilyArea.tsx"
+      ],
+      "scope": "Seis situações e 18 perguntas, mais situação local docente. EJA abre quatro textos cotidianos; o acervo completo fica acessível por escolha. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "12.01",
+      "section": 12,
+      "demand": "Reunir habilidades trabalhadas e desenvolvidas.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/PdfExportModal.tsx",
+        "src/utils/individualReport.ts",
+        "src/services/pedagogicalPdfService.ts"
+      ],
+      "scope": "Cálculos, autoria e observações docentes separados. Comparação requer três tarefas com contexto e apoio comparáveis. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "12.02",
+      "section": 12,
+      "demand": "Apresentar avanços observados.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/PdfExportModal.tsx",
+        "src/utils/individualReport.ts",
+        "src/services/pedagogicalPdfService.ts"
+      ],
+      "scope": "Cálculos, autoria e observações docentes separados. Comparação requer três tarefas com contexto e apoio comparáveis. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "12.03",
+      "section": 12,
+      "demand": "Indicar dificuldades que exigem apoio.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/PdfExportModal.tsx",
+        "src/utils/individualReport.ts",
+        "src/services/pedagogicalPdfService.ts"
+      ],
+      "scope": "Cálculos, autoria e observações docentes separados. Comparação requer três tarefas com contexto e apoio comparáveis. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "12.04",
+      "section": 12,
+      "demand": "Registrar intervenções utilizadas.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/PdfExportModal.tsx",
+        "src/utils/individualReport.ts",
+        "src/services/pedagogicalPdfService.ts"
+      ],
+      "scope": "Cálculos, autoria e observações docentes separados. Comparação requer três tarefas com contexto e apoio comparáveis. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "12.05",
+      "section": 12,
+      "demand": "Permitir observações e validação do professor.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/PdfExportModal.tsx",
+        "src/utils/individualReport.ts",
+        "src/services/pedagogicalPdfService.ts"
+      ],
+      "scope": "Cálculos, autoria e observações docentes separados. Comparação requer três tarefas com contexto e apoio comparáveis. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "12.06",
+      "section": 12,
+      "demand": "Comparar períodos quando houver evidências suficientes.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/PdfExportModal.tsx",
+        "src/utils/individualReport.ts",
+        "src/services/pedagogicalPdfService.ts"
+      ],
+      "scope": "Cálculos, autoria e observações docentes separados. Comparação requer três tarefas com contexto e apoio comparáveis. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "12.07",
+      "section": 12,
+      "demand": "Apresentar a evolução da Trilha dos Elementos.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/PdfExportModal.tsx",
+        "src/utils/individualReport.ts",
+        "src/services/pedagogicalPdfService.ts"
+      ],
+      "scope": "Cálculos, autoria e observações docentes separados. Comparação requer três tarefas com contexto e apoio comparáveis. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "12.08",
+      "section": 12,
+      "demand": "Diferenciar resultados automáticos de observações docentes.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/PdfExportModal.tsx",
+        "src/utils/individualReport.ts",
+        "src/services/pedagogicalPdfService.ts"
+      ],
+      "scope": "Cálculos, autoria e observações docentes separados. Comparação requer três tarefas com contexto e apoio comparáveis. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "12.09",
+      "section": 12,
+      "demand": "Oferecer relatório objetivo, legível e adequado ao acompanhamento escolar.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/PdfExportModal.tsx",
+        "src/utils/individualReport.ts",
+        "src/services/pedagogicalPdfService.ts"
+      ],
+      "scope": "Cálculos, autoria e observações docentes separados. Comparação requer três tarefas com contexto e apoio comparáveis. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "12.10",
+      "section": 12,
+      "demand": "Garantir sigilo das informações individuais.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/PdfExportModal.tsx",
+        "src/utils/individualReport.ts",
+        "src/services/pedagogicalPdfService.ts"
+      ],
+      "scope": "Cálculos, autoria e observações docentes separados. Comparação requer três tarefas com contexto e apoio comparáveis. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "13.01",
+      "section": 13,
+      "demand": "Apresentar orientações simples de apoio à leitura.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/FamilySupportPanel.tsx",
+        "src/utils/familySupport.ts",
+        "server/centralStore.ts"
+      ],
+      "scope": "Família recebe apenas os dados vinculados e mensagem aprovada, sem observações docentes privadas."
+    },
+    {
+      "id": "13.02",
+      "section": 13,
+      "demand": "Sugerir atividades com objetos e situações do cotidiano.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/FamilySupportPanel.tsx",
+        "src/utils/familySupport.ts",
+        "server/centralStore.ts"
+      ],
+      "scope": "Família recebe apenas os dados vinculados e mensagem aprovada, sem observações docentes privadas."
+    },
+    {
+      "id": "13.03",
+      "section": 13,
+      "demand": "Disponibilizar instruções curtas e visuais.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/FamilySupportPanel.tsx",
+        "src/utils/familySupport.ts",
+        "server/centralStore.ts"
+      ],
+      "scope": "Família recebe apenas os dados vinculados e mensagem aprovada, sem observações docentes privadas."
+    },
+    {
+      "id": "13.04",
+      "section": 13,
+      "demand": "Relacionar sugestões às habilidades trabalhadas.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/FamilySupportPanel.tsx",
+        "src/utils/familySupport.ts",
+        "server/centralStore.ts"
+      ],
+      "scope": "Família recebe apenas os dados vinculados e mensagem aprovada, sem observações docentes privadas."
+    },
+    {
+      "id": "13.05",
+      "section": 13,
+      "demand": "Garantir acesso exclusivo aos dados do estudante autorizado.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/FamilySupportPanel.tsx",
+        "src/utils/familySupport.ts",
+        "server/centralStore.ts"
+      ],
+      "scope": "Família recebe apenas os dados vinculados e mensagem aprovada, sem observações docentes privadas."
+    },
+    {
+      "id": "13.06",
+      "section": 13,
+      "demand": "Evitar linguagem excessivamente técnica.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/FamilySupportPanel.tsx",
+        "src/utils/familySupport.ts",
+        "server/centralStore.ts"
+      ],
+      "scope": "Família recebe apenas os dados vinculados e mensagem aprovada, sem observações docentes privadas."
+    },
+    {
+      "id": "13.07",
+      "section": 13,
+      "demand": "Não transformar o acompanhamento familiar em cobrança por desempenho.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/FamilySupportPanel.tsx",
+        "src/utils/familySupport.ts",
+        "server/centralStore.ts"
+      ],
+      "scope": "Família recebe apenas os dados vinculados e mensagem aprovada, sem observações docentes privadas."
+    },
+    {
+      "id": "14.01",
+      "section": 14,
+      "demand": "Adaptar interfaces a celulares, tablets e computadores.",
+      "status": "Implementado em código",
+      "references": [
+        "src/App.tsx",
+        "scripts/buildOffline.mjs",
+        "src/utils/studentResume.ts",
+        "src/services/centralSyncService.ts"
+      ],
+      "scope": "Emulação de telas e recarga offline foram verificadas em navegador; não substituem aparelhos físicos e conexão da escola. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "14.02",
+      "section": 14,
+      "demand": "Otimizar imagens, áudios e carregamento.",
+      "status": "Implementado em código",
+      "references": [
+        "src/App.tsx",
+        "scripts/buildOffline.mjs",
+        "src/utils/studentResume.ts",
+        "src/services/centralSyncService.ts"
+      ],
+      "scope": "Emulação de telas e recarga offline foram verificadas em navegador; não substituem aparelhos físicos e conexão da escola. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "14.03",
+      "section": 14,
+      "demand": "Reduzir travamentos em aparelhos simples.",
+      "status": "Implementado; conferir em dispositivo real",
+      "references": [
+        "src/App.tsx",
+        "scripts/buildOffline.mjs",
+        "src/utils/studentResume.ts",
+        "src/services/centralSyncService.ts"
+      ],
+      "scope": "Emulação de telas e recarga offline foram verificadas em navegador; não substituem aparelhos físicos e conexão da escola. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "14.04",
+      "section": 14,
+      "demand": "Melhorar o comportamento com internet limitada.",
+      "status": "Implementado em código",
+      "references": [
+        "src/App.tsx",
+        "scripts/buildOffline.mjs",
+        "src/utils/studentResume.ts",
+        "src/services/centralSyncService.ts"
+      ],
+      "scope": "Emulação de telas e recarga offline foram verificadas em navegador; não substituem aparelhos físicos e conexão da escola. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "14.05",
+      "section": 14,
+      "demand": "Permitir retomada de atividades interrompidas, quando tecnicamente possível.",
+      "status": "Implementado em código",
+      "references": [
+        "src/App.tsx",
+        "scripts/buildOffline.mjs",
+        "src/utils/studentResume.ts",
+        "src/services/centralSyncService.ts"
+      ],
+      "scope": "Emulação de telas e recarga offline foram verificadas em navegador; não substituem aparelhos físicos e conexão da escola. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "14.06",
+      "section": 14,
+      "demand": "Evitar perda de respostas e progresso.",
+      "status": "Implementado em código",
+      "references": [
+        "src/App.tsx",
+        "scripts/buildOffline.mjs",
+        "src/utils/studentResume.ts",
+        "src/services/centralSyncService.ts"
+      ],
+      "scope": "Emulação de telas e recarga offline foram verificadas em navegador; não substituem aparelhos físicos e conexão da escola. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "14.07",
+      "section": 14,
+      "demand": "Testar telas, áudios, botões e jogos em dispositivos utilizados nas escolas.",
+      "status": "Implementado; conferir em dispositivo real",
+      "references": [
+        "src/App.tsx",
+        "scripts/buildOffline.mjs",
+        "src/utils/studentResume.ts",
+        "src/services/centralSyncService.ts"
+      ],
+      "scope": "Emulação de telas e recarga offline foram verificadas em navegador; não substituem aparelhos físicos e conexão da escola. Revisão 2.1.3: consultar auditoria para limites de verificação e aprimoramentos de layout e apoios."
+    },
+    {
+      "id": "15.01",
+      "section": 15,
+      "demand": "Padronizar cores, tipografia, cartões e ícones.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/visual/PremiumIcon.tsx",
+        "src/utils/premiumVisualAssets.ts",
+        "PREVIA_VISUAL.html"
+      ],
+      "scope": "Capas premium e personagens preservados, novos vetores locais e modo tranquilo. Reconhecimento e adequação cultural exigem observação."
+    },
+    {
+      "id": "15.02",
+      "section": 15,
+      "demand": "Manter uma identidade visual própria do FluiLer.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/visual/PremiumIcon.tsx",
+        "src/utils/premiumVisualAssets.ts",
+        "PREVIA_VISUAL.html"
+      ],
+      "scope": "Capas premium e personagens preservados, novos vetores locais e modo tranquilo. Reconhecimento e adequação cultural exigem observação."
+    },
+    {
+      "id": "15.03",
+      "section": 15,
+      "demand": "Valorizar personagens e cenários existentes.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/visual/PremiumIcon.tsx",
+        "src/utils/premiumVisualAssets.ts",
+        "PREVIA_VISUAL.html"
+      ],
+      "scope": "Capas premium e personagens preservados, novos vetores locais e modo tranquilo. Reconhecimento e adequação cultural exigem observação."
+    },
+    {
+      "id": "15.04",
+      "section": 15,
+      "demand": "Criar ilustrações pedagógicas consistentes.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/visual/PremiumIcon.tsx",
+        "src/utils/premiumVisualAssets.ts",
+        "PREVIA_VISUAL.html"
+      ],
+      "scope": "Capas premium e personagens preservados, novos vetores locais e modo tranquilo. Reconhecimento e adequação cultural exigem observação."
+    },
+    {
+      "id": "15.05",
+      "section": 15,
+      "demand": "Evitar excesso de elementos decorativos.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/visual/PremiumIcon.tsx",
+        "src/utils/premiumVisualAssets.ts",
+        "PREVIA_VISUAL.html"
+      ],
+      "scope": "Capas premium e personagens preservados, novos vetores locais e modo tranquilo. Reconhecimento e adequação cultural exigem observação."
+    },
+    {
+      "id": "15.06",
+      "section": 15,
+      "demand": "Diferenciar visualmente as áreas do Aluno, Professor e Família.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/visual/PremiumIcon.tsx",
+        "src/utils/premiumVisualAssets.ts",
+        "PREVIA_VISUAL.html"
+      ],
+      "scope": "Capas premium e personagens preservados, novos vetores locais e modo tranquilo. Reconhecimento e adequação cultural exigem observação."
+    },
+    {
+      "id": "15.07",
+      "section": 15,
+      "demand": "Criar indicadores claros de atividade disponível, em andamento ou concluída.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/visual/PremiumIcon.tsx",
+        "src/utils/premiumVisualAssets.ts",
+        "PREVIA_VISUAL.html"
+      ],
+      "scope": "Capas premium e personagens preservados, novos vetores locais e modo tranquilo. Reconhecimento e adequação cultural exigem observação."
+    },
+    {
+      "id": "15.08",
+      "section": 15,
+      "demand": "Garantir compatibilidade com o modo de redução de estímulos.",
+      "status": "Implementado em código",
+      "references": [
+        "src/components/visual/PremiumIcon.tsx",
+        "src/utils/premiumVisualAssets.ts",
+        "PREVIA_VISUAL.html"
+      ],
+      "scope": "Capas premium e personagens preservados, novos vetores locais e modo tranquilo. Reconhecimento e adequação cultural exigem observação."
+    },
+    {
+      "id": "16.01",
+      "section": 16,
+      "demand": "Realizar testes supervisionados com estudantes leitores e não leitores.",
+      "status": "Pendente de validação humana",
+      "references": [
+        "validacao/Caderno_Etapa_F.html",
+        "validacao/tarefas.json",
+        "validacao/FluiLer_Etapa_F_Roteiro_e_Fichas.docx"
+      ],
+      "scope": "Instrumentos prontos; zero sessões humanas concluídas. A aplicação supervisionada permanece pendente."
+    },
+    {
+      "id": "16.02",
+      "section": 16,
+      "demand": "Verificar se os comandos são compreensíveis.",
+      "status": "Pendente de validação humana",
+      "references": [
+        "validacao/Caderno_Etapa_F.html",
+        "validacao/tarefas.json",
+        "validacao/FluiLer_Etapa_F_Roteiro_e_Fichas.docx"
+      ],
+      "scope": "Instrumentos prontos; zero sessões humanas concluídas. A aplicação supervisionada permanece pendente."
+    },
+    {
+      "id": "16.03",
+      "section": 16,
+      "demand": "Avaliar a autonomia na página inicial.",
+      "status": "Pendente de validação humana",
+      "references": [
+        "validacao/Caderno_Etapa_F.html",
+        "validacao/tarefas.json",
+        "validacao/FluiLer_Etapa_F_Roteiro_e_Fichas.docx"
+      ],
+      "scope": "Instrumentos prontos; zero sessões humanas concluídas. A aplicação supervisionada permanece pendente."
+    },
+    {
+      "id": "16.04",
+      "section": 16,
+      "demand": "Observar o uso de jogos e respostas por imagens.",
+      "status": "Pendente de validação humana",
+      "references": [
+        "validacao/Caderno_Etapa_F.html",
+        "validacao/tarefas.json",
+        "validacao/FluiLer_Etapa_F_Roteiro_e_Fichas.docx"
+      ],
+      "scope": "Instrumentos prontos; zero sessões humanas concluídas. A aplicação supervisionada permanece pendente."
+    },
+    {
+      "id": "16.05",
+      "section": 16,
+      "demand": "Testar recursos de acessibilidade e CAA com os usuários que deles necessitam.",
+      "status": "Pendente de validação humana",
+      "references": [
+        "validacao/Caderno_Etapa_F.html",
+        "validacao/tarefas.json",
+        "validacao/FluiLer_Etapa_F_Roteiro_e_Fichas.docx"
+      ],
+      "scope": "Instrumentos prontos; zero sessões humanas concluídas. A aplicação supervisionada permanece pendente."
+    },
+    {
+      "id": "16.06",
+      "section": 16,
+      "demand": "Verificar se os relatórios são úteis ao professor.",
+      "status": "Pendente de validação humana",
+      "references": [
+        "validacao/Caderno_Etapa_F.html",
+        "validacao/tarefas.json",
+        "validacao/FluiLer_Etapa_F_Roteiro_e_Fichas.docx"
+      ],
+      "scope": "Instrumentos prontos; zero sessões humanas concluídas. A aplicação supervisionada permanece pendente."
+    },
+    {
+      "id": "16.07",
+      "section": 16,
+      "demand": "Registrar dificuldades observadas e corrigir antes de ampliar a aplicação.",
+      "status": "Pendente de validação humana",
+      "references": [
+        "validacao/Caderno_Etapa_F.html",
+        "validacao/tarefas.json",
+        "validacao/FluiLer_Etapa_F_Roteiro_e_Fichas.docx"
+      ],
+      "scope": "Instrumentos prontos; zero sessões humanas concluídas. A aplicação supervisionada permanece pendente."
+    }
+  ],
+  "audit": "AUDITORIA_2.1.3.md",
+  "interpretation": "Estado de implementação em código; não significa homologação humana ou operação em Firestore real."
+}

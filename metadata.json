@@ -1,0 +1,10 @@
+{
+  "name": "FluiLer",
+  "description": "Aplicativo de alfabetização, leitura, escrita e contextos de EJA, com atividades acessíveis, relatórios docentes e Área da Família.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

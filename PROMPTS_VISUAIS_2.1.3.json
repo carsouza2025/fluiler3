@@ -1,0 +1,28 @@
+{
+  "tool": "image_gen__imagegen",
+  "date": "2026-11-01",
+  "usage": "Quatro novas capas do FluiLer 2.1.3; conversão técnica PNG para WebP, sem alterar a ilustração.",
+  "basePrompt": "Use case: illustration-story. Asset type: premium editorial cover for FluiLer Brazilian literacy reading app, landscape 3:2. Create one full-bleed refined contemporary children's-book illustration, soft hand-painted gouache and delicate colored-pencil texture, carefully modeled forms, tasteful botanical greens, sage, warm cream, terracotta and muted honey accents, gentle natural light. Warm, sophisticated, calm, clear subject readable in a small thumbnail, coherent art direction with elegant educational book covers. No text, letters, typography, logos, frames, collages, interface, watermarks or excessive decoration.",
+  "images": [
+    {
+      "name": "batatinha",
+      "prompt": "Subject: a healthy small potato plant with recognizable compound green leaves spreading low above a small patch of rich soil in a sunlit garden, a single harvested potato resting beside it. A subtle garden path and softly blurred greenery in the background. Focus on the plant, soil and potato, no faces, no people. Botanical plausibility, no fantasy fruits growing on the leaves.",
+      "path": "public/assets/premium/batatinha-213.webp"
+    },
+    {
+      "name": "raposa",
+      "prompt": "Subject: one graceful orange-red fox in a quiet vineyard looking up at a hanging bunch of purple grapes on a high grapevine with recognizable lobed leaves. The fox cannot reach the grapes. Frame the entire fox and the grape bunch clearly, with restrained depth and warm daylight. No clothing, no other animals, no anthropomorphic cartoon expressions.",
+      "path": "public/assets/premium/raposa-213.webp"
+    },
+    {
+      "name": "jardim",
+      "prompt": "Subject: a small tender green seedling in a terracotta flowerpot in a peaceful school garden. A yellow watering can beside it and a few freshly watered droplets on dark soil, leafy garden border and soft suggestion of a school building far in the background. No people, no text, no labels, no readable signs. The plant has a slender stem and two young leaves, carefully rendered natural materials.",
+      "path": "public/assets/premium/jardim-213.webp"
+    },
+    {
+      "name": "vitamina",
+      "prompt": "Subject: a calm clean kitchen still life with ripe bananas, a small glass milk jug, a safely closed blender standing unplugged, and one clear tumbler of pale banana smoothie, on a cream countertop. Restrained sage green kitchen background, gentle morning window light, elegant tactile materials. No people, no loose blades, no spills, no labels or packaging text.",
+      "path": "public/assets/premium/vitamina-213.webp"
+    }
+  ]
+}

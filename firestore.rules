@@ -1,0 +1,10 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // All access passes through the authenticated Express API.
+    // The Node server authenticates with IAM/ADC, never the browser SDK.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "image_gen ferramenta incorporada",
+  "revision": "VP01",
+  "prompts": [
+    {
+      "id": "pipoquinha",
+      "prompt": "Use case: illustration-story. Asset type: premium illustrated cover image inside the Brazilian literacy app FluiLer for the existing children's rhyme Pula, Pula, Pipoquinha. Create a refined editorial storybook illustration, delicate painted gouache and colored-pencil texture, dimensional but not plastic 3D. Landscape composition 3:2. A friendly small white popcorn character joyfully jumping above a warm red cooking pot in a cozy sunlit kitchen; a few golden corn kernels and soft rising steam, clear recognizable silhouettes and quiet background. Preserve the existing key visual identity: white popcorn, red pot, warm yellow accents; muted teal details matching FluiLer. Professional children's publishing quality, restrained visual detail, soft natural shadows, generous breathing room. The picture illustrates a rhyme, not cooking instructions. No people, no additional characters, no letters, no labels, no title, no border, no watermark. Keep all essential subjects fully inside the picture with 8% safe margins.",
+      "mode": "generate"
+    },
+    {
+      "id": "relogio",
+      "prompt": "Use case: illustration-story. Asset type: premium cover illustration for the existing Brazilian FluiLer literacy collection. Landscape 3:2, refined editorial gouache and colored-pencil illustration for a high quality published children's book, softly dimensional, natural light, restrained detail, muted teal and warm cream with natural ochre accents, clear subject at mobile size, subtle paper texture. Generous safe margins. No title, letters, labels, written words, watermark or border. Subject: an analog school wall clock clearly mounted high on the wall beside an open classroom doorway leading to a sunlit school courtyard; a few small children in the distance playing during recess. The large clock is the main subject. Welcoming Brazilian primary school, warm wood and leafy courtyard, quiet composition. Clock has simple hour marks instead of numerals. No anthropomorphic giant clock, no fantasy props.",
+      "mode": "generate"
+    },
+    {
+      "id": "roda",
+      "prompt": "Use case: illustration-story. Asset type: premium cover illustration for the existing Brazilian FluiLer literacy collection. Landscape 3:2, refined editorial gouache and colored-pencil illustration for a high quality published children's book, softly dimensional, natural light, restrained detail, muted teal and warm cream with natural ochre accents, clear subject at mobile size, subtle paper texture. Generous safe margins. No title, letters, labels, written words, watermark or border. Subject: a small diverse group of six primary school children holding hands in a complete circle on a grassy school garden, beside a leafy tree. Natural gestures, believable hands, inclusive warm scene. A classroom window and soft sunshine in background. Clothes are simple with restrained blues, ochres and greens. The hand-holding circle is the single clear subject, no crowd or party decorations.",
+      "mode": "generate"
+    },
+    {
+      "id": "bilhete",
+      "prompt": "Use case: illustration-story. Asset type: premium cover illustration for the existing Brazilian FluiLer literacy collection. Landscape 3:2, refined editorial gouache and colored-pencil illustration for a high quality published children's book, softly dimensional, natural light, restrained detail, muted teal and warm cream with natural ochre accents, clear subject at mobile size, subtle paper texture. Generous safe margins. No title, letters, labels, written words, watermark or border. Subject: one recognizably BLUE pencil case with zipper and one folded white handwritten note resting on a warm wooden school desk. The note has only soft indistinct pencil strokes, no readable words. A graphite pencil next to them. Empty classroom background very softly suggested, no children. Blue pencil case remains prominent, separate clearly readable silhouettes. No books, no extra characters.",
+      "mode": "generate"
+    },
+    {
+      "id": "receita",
+      "prompt": "Use case: illustration-story. Asset type: premium cover illustration for the existing Brazilian FluiLer literacy collection. Landscape 3:2, refined editorial gouache and colored-pencil illustration for a high quality published children's book, softly dimensional, natural light, restrained detail, muted teal and warm cream with natural ochre accents, clear subject at mobile size, subtle paper texture. Generous safe margins. No title, letters, labels, written words, watermark or border. Subject: an inviting glass bowl of fruit salad on a clean kitchen table, with clearly recognizable banana, red apple, purple grapes and orange as the only fruit ingredients. A small glass jug of orange juice, a simple spoon and a folded cream tea towel with subtle teal edge. No other foods. No faces on food, no knives or people. Calm editorial still life, restrained clutter, the bowl and four kinds of fruit are focal subjects.",
+      "mode": "generate"
+    },
+    {
+      "id": "livro",
+      "prompt": "Use case: illustration-story. Asset type: premium cover illustration for the existing Brazilian FluiLer literacy collection. Landscape 3:2, refined editorial gouache and colored-pencil illustration for a high quality published children's book, softly dimensional, natural light, restrained detail, muted teal and warm cream with natural ochre accents, clear subject at mobile size, subtle paper texture. Generous safe margins. No title, letters, labels, written words, watermark or border. Subject: a treasured open children's book on a clean wooden reading desk with a TEAL fabric bookmark visibly resting between pages and protruding from top. A pair of CLEAN children's hands gently holding the outside page corners without bending them. No readable text; only delicate blank lines and a tiny nature illustration on one page. Warm reading corner in very soft focus. The book and bookmark are clearly recognizable. No food, no water cup, no curled corners or dirt.",
+      "mode": "generate"
+    },
+    {
+      "id": "mudinha",
+      "prompt": "Use case: identity-preserve / illustration-story. Asset type: replacement premium cover for the existing FluiLer story A Mudinha no Pátio. Image 1 is the current COVER to be refined. Image 2 is the existing THIRD STORY PANEL, the canonical reference for Nina and Leo: Nina has fair skin, straight brown hair in a low ponytail, white collared shirt under a blue pinstriped school pinafore; Leo has brown skin, short dark curly hair, green sweater with white collar, brown shorts. Preserve these character identities from image 2 and the existing illustrated story world. Create a refined warm gouache and colored-pencil storybook COVER, landscape 3:2. Nina and Leo kneel beside a terracotta flowerpot in the sunny school courtyard. Leo carefully waters the tiny green sprout with a clearly YELLOW watering can; Nina attentively watches the sprout. One tiny green sprout with two leaves in the pot. Same gentle age-appropriate expressions and believable hands. Calm leafy school background, warm cream and muted teal accents, sophisticated editorial painting, restrained background, main action clearly readable at mobile size. This is a cover, no speech balloons, no written words on pot or anywhere, no lettering or labels, no watermark, no border. Keep watering, children and sprout inside safe margins. Do not introduce additional main characters, change character skin tones, introduce fantasy objects or replace school uniforms with casual costumes.",
+      "mode": "edit"
+    }
+  ]
+}

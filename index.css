@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Fredoka', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Shared readable scale. Browser zoom remains available. */
+html[data-fluiler-font="large"] #root {
+  --text-xs: 1rem; --text-sm: 1.125rem; --text-base: 1.25rem;
+  --text-lg: 1.4rem; --text-xl: 1.6rem; --text-2xl: 1.85rem;
+  --text-3xl: 2.2rem;
+}
+html[data-fluiler-font="xlarge"] #root {
+  --text-xs: 1.125rem; --text-sm: 1.25rem; --text-base: 1.5rem;
+  --text-lg: 1.65rem; --text-xl: 1.85rem; --text-2xl: 2.1rem;
+  --text-3xl: 2.45rem;
+}
+html[data-fluiler-font="large"] #root [class*="text-["] { font-size:1rem; }
+html[data-fluiler-font="xlarge"] #root [class*="text-["] { font-size:1.125rem; }
+#root :where(button, a, input, select, textarea):focus-visible {
+  outline:3px solid #0f766e; outline-offset:4px;
+}
+#root .fluiler-accessibility button, #student-simple-home button { min-height:48px; }
+html[data-fluiler-calm="true"] #root *, html[data-fluiler-calm="true"] #root *::before,
+html[data-fluiler-calm="true"] #root *::after {
+  animation:none!important; transition:none!important; scroll-behavior:auto!important;
+}
+html[data-fluiler-calm="true"] #root [data-fluiler-decoration="true"] { display:none; }
+@media (prefers-reduced-motion: reduce) {
+  #root *, #root *::before, #root *::after {animation:none!important;transition:none!important;scroll-behavior:auto!important;}
+}
+
+html[data-fluiler-font="large"] #root, html[data-fluiler-font="xlarge"] #root {font-size:var(--text-base);}
+#root main button {min-width:44px;min-height:44px;}
+@media (max-width: 479px) {
+  html[data-fluiler-font="xlarge"] #student-main-tabs {grid-template-columns:1fr;}
+  html[data-fluiler-font="xlarge"] .reading-question-navigation {flex-direction:column;}
+  html[data-fluiler-font="xlarge"] .reading-question-navigation button {width:100%;}
+}
+
+.fluiler-dialog::backdrop { background:rgba(15, 23, 42, .65); }
+
+/* Sistema visual FluiLer: pictogramas locais, com silhueta estável e dois tons. */
+.premium-icon { display: inline-block; flex-shrink: 0; vertical-align: middle; --pi-line:#23584b; --pi-back:#e7f0e8; --pi-paper:#fcfaf1; --pi-accent:#9fbd94; }
+.premium-icon--gold { --pi-line:#795324; --pi-back:#f3e9d5; --pi-paper:#fffaf0; --pi-accent:#e4ba6e; }
+.premium-icon--blue { --pi-line:#315c75; --pi-back:#e4edf3; --pi-paper:#fffdf7; --pi-accent:#a1bdcd; }
+.premium-icon--violet { --pi-line:#64557f; --pi-back:#eeebf2; --pi-paper:#fffdf8; --pi-accent:#c2afd5; }
+.premium-icon--rose { --pi-line:#85534b; --pi-back:#f5e9e3; --pi-paper:#fffaf3; --pi-accent:#dab0a0; }
+.premium-icon-back { fill:var(--pi-back); stroke:var(--pi-line); stroke-opacity:.12; }
+.premium-icon-art { fill:var(--pi-paper); stroke:var(--pi-line); }
+.premium-icon-art .premium-accent { fill:var(--pi-accent); }
+.premium-icon-art [fill="none"] { fill:none; }
+.premium-avatar { filter:drop-shadow(0 2px 2px rgb(29 65 53 / .12)); }
+.premium-cover { border-radius:18px; background:#edece4; object-fit:contain; }
+html[data-fluiler-calm="true"] .premium-avatar { filter:none; }
+
+/* Ajustes de recuperação 2.1.2 */
+button,summary,select{min-height:44px}button,a,input,select,textarea,summary{scroll-margin-top:100px}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline:3px solid #a35b16;outline-offset:3px}main{min-width:0}main p,main button,main label{overflow-wrap:anywhere}footer>div>p{color:#cbd5e1}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
